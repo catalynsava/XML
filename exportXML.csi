@@ -1,0 +1,6 @@
+[History]
+B0=exportXML/modExportXML/exportCap0_12
+B1=exportXML/modAsist/getDateTimeXML
+B2=exportXML/modAsist/CreateGUID
+B3=exportXML/frmExportXML/Command1_Click
+B4=exportXML/Form1/Command1_Click
