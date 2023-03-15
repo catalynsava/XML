@@ -1,10 +1,11 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\SysWow64\STDOLE2.TLB#OLE Automation
 Reference=*\G{F5078F18-C551-11D3-89B9-0000F81FE221}#6.0#0#..\..\Windows\System32\msxml6.dll#Microsoft XML, v6.0
-Form=frmExportXML.frm
+Reference=*\G{00025E01-0000-0000-C000-000000000046}#5.0#0#..\..\ra\dao360.dll#Microsoft DAO 3.6 Object Library
 Module=modExportXML; modExportXML.bas
 Module=modAsist; modAsist.bas
-Startup="frmExportXML"
+Module=modMain; modMain.bas
+Startup="Sub Main"
 Command32=""
 Name="exportXML"
 HelpContextID="0"

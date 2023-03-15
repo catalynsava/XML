@@ -1,6 +1,11 @@
 [History]
-B0=exportXML/modExportXML/exportCap0_12
-B1=exportXML/modAsist/getDateTimeXML
-B2=exportXML/modAsist/CreateGUID
-B3=exportXML/frmExportXML/Command1_Click
-B4=exportXML/Form1/Command1_Click
+B0=exportXML/modMain/Main
+B1=exportXML/modAsist/readSirute
+B2=exportXML/modAsist/readStringsUAT
+B3=exportXML/modExportXML/exportCap0_12
+B4=exportXML/frmExportXML/Command1_Click
+B5=exportXML/modExportXML/CloseConnection
+B6=exportXML/modExportXML/Connect
+B7=exportXML/modAsist/CreateGUID
+B8=exportXML/modAsist/getDateTimeXML
+B9=exportXML/Form1/Command1_Click

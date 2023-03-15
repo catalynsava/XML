@@ -24,5 +24,8 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-    Call exportCap0_12
+    
+    
+    
+    
 End Sub
